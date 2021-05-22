@@ -29,7 +29,7 @@ body {
     background-color: #fff;
     margin: auto;
     width: 50%;
-    border: 3px solid rgb(231, 164, 226);
+    border: 3px solid #eda1aa;
     padding: 10px;
 }
 
@@ -38,16 +38,16 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid rgb(231, 164, 226);
+    border: 1px solid #eda1aa;
     padding: 5px;
     width: 150px;
   }
 
   table {
-    border: 1px solid rgb(231, 164, 226);  
+    border: 1px solid #eda1aa;  
     border-collapse: collapse;
   }
   
   th {
-    border: 1px solid rgb(231, 164, 226);
+    border: 1px solid #eda1aa;
   }
