@@ -27,6 +27,10 @@ body {
     line-height: 1.428571429;
     color: #333;
     background-color: #fff;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(231, 164, 226);
+    padding: 10px;
 }
 
 img {
@@ -34,15 +38,16 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
     border: 1px solid rgb(231, 164, 226);
-    border-radius: 4px;
     padding: 5px;
     width: 150px;
   }
 
-  table th {
+  table {
     border: 1px solid rgb(231, 164, 226);  
     border-collapse: collapse;
   }
   
+  th {
+    border: 1px solid rgb(231, 164, 226);
+  }
