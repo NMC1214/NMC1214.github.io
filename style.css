@@ -45,9 +45,18 @@ img {
 
   table {
     border: 1px solid #eda1aa;  
-    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   th {
     border: 1px solid #eda1aa;
   }
+
+  td {
+    border: 1px solid #eda1aa;  
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  
